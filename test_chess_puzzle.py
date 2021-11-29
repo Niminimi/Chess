@@ -7,6 +7,8 @@ def test_locatio2index1():
 
 def test_index2location1():
     assert index2location(5,2) == "e2"
+    
+    
 
 wb1 = Bishop(1,1,True)
 wr1 = Rook(1,2,True)
