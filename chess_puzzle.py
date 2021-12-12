@@ -1,3 +1,6 @@
+tyest = 6
+
+
 def location2index(loc: str) -> tuple[int, int]:
     '''converts chess location to corresponding x and y coordinates'''
     
